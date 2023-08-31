@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Jirayu Satsanatayat",
+      "email": "jirayu@gmail.com",
+      "password": "1q2w3e4r"
+    },
+    {
+      "id": 2,
+      "fullname": "test",
+      "email": "test@mail.com",
+      "password": "1q2w3e4r",
+      "gender": "Male"
+    }
+  ]
+}
